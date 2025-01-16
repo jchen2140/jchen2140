@@ -3,5 +3,5 @@
 - 📚 CS student @ Princeton
 - 🌱 Prev @ Blue Shield of California
 - ✨ Interested in...
-    - full-stack development
+    - Full Stack development
     - AI/ML
